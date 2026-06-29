@@ -30,16 +30,16 @@ Reference: [DISA STIG Library](https://public.cyber.mil/stigs/)
 
 | #  | STIG                                          | Target Platform              | Repo Link | Status   |
 |----|-----------------------------------------------|------------------------------|-----------|----------|
-| 01 | Microsoft Windows 11                          | Workstation                  | [link]()  | Planned  |
-| 02 | Microsoft Windows Server 2022 Member Server   | Server                       | [link]()  | Planned  |
-| 03 | Microsoft Windows Server 2022 Domain Controller | Server                     | [link]()  | Planned  |
-| 04 | Microsoft Windows Firewall with Advanced Security | All Windows              | [link]()  | Planned  |
-| 05 | Microsoft Defender Antivirus                  | All Windows                  | [link]()  | Planned  |
-| 06 | Microsoft Edge                                | All Windows                  | [link]()  | Planned  |
-| 07 | Microsoft .NET Framework 4                    | All Windows                  | [link]()  | Planned  |
-| 08 | IIS 10.0 Server                               | Server                       | [link]()  | Planned  |
-| 09 | Microsoft SQL Server 2022 Instance            | Server                       | [link]()  | Planned  |
-| 10 | Active Directory Domain                       | Domain                       | [link]()  | Planned  |
+| 01 | STIG 01: Microsoft Windows 11                 | Workstation                  | [link](https://github.com/goubx/STIG-Implementation-WN11-AU-000500)  | Completed  |
+| 02 | STIG 02:                                      | Server                       | [link]()  | Planned  |
+| 03 | STIG 03:                                      | Server                       | [link]()  | Planned  |
+| 04 | STIG 04:                                      | All Windows                  | [link]()  | Planned  |
+| 05 | STIG 05:                                      | All Windows                  | [link]()  | Planned  |
+| 06 | STIG 06:                                      | All Windows                  | [link]()  | Planned  |
+| 07 | STIG 07:                                      | All Windows                  | [link]()  | Planned  |
+| 08 | STIG 08:                                      | Server                       | [link]()  | Planned  |
+| 09 | SITG 09:                                      | Server                       | [link]()  | Planned  |
+| 10 | STIG 10:                                      | Domain                       | [link]()  | Planned  |
 
 Status values: Planned, In Progress, Published, Updated
 
