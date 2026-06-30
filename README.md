@@ -28,18 +28,18 @@ Reference: [DISA STIG Library](https://public.cyber.mil/stigs/)
 
 ## STIG Index
 
-| #  | STIG                                          | Target Platform              | Repo Link | Status   |
-|----|-----------------------------------------------|------------------------------|-----------|----------|
-| 01 | STIG 01: Microsoft Windows 11                 | Workstation                  | [link](https://github.com/goubx/STIG-Implementation-WN11-AU-000500)  | Completed  |
-| 02 | STIG 02:                                      | Server                       | [link]()  | Planned  |
-| 03 | STIG 03:                                      | Server                       | [link]()  | Planned  |
-| 04 | STIG 04:                                      | All Windows                  | [link]()  | Planned  |
-| 05 | STIG 05:                                      | All Windows                  | [link]()  | Planned  |
-| 06 | STIG 06:                                      | All Windows                  | [link]()  | Planned  |
-| 07 | STIG 07:                                      | All Windows                  | [link]()  | Planned  |
-| 08 | STIG 08:                                      | Server                       | [link]()  | Planned  |
-| 09 | SITG 09:                                      | Server                       | [link]()  | Planned  |
-| 10 | STIG 10:                                      | Domain                       | [link]()  | Planned  |
+| #  | STIG                                           | Repo Link | Status   |
+|----|-----------------------------------------------|------------|-----------|
+| 01 | STIG 01: WN11-AU-000500                       | [link](https://github.com/goubx/STIG-Implementation-WN11-AU-000500)  | Completed  |
+| 02 | STIG 02: WN11-CC-000150                       | [link](https://github.com/goubx/STIG-Implementation-WN11-CC-000150)  | Completed  |
+| 03 | STIG 03:                                      | [link]()  | Planned  |
+| 04 | STIG 04:                                      | [link]()  | Planned  |
+| 05 | STIG 05:                                      | [link]()  | Planned  |
+| 06 | STIG 06:                                      | [link]()  | Planned  |
+| 07 | STIG 07:                                      | [link]()  | Planned  |
+| 08 | STIG 08:                                      | [link]()  | Planned  |
+| 09 | SITG 09:                                      | [link]()  | Planned  |
+| 10 | STIG 10:                                      | [link]()  | Planned  |
 
 Status values: Planned, In Progress, Published, Updated
 
