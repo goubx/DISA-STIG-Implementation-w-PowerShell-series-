@@ -33,7 +33,7 @@ Reference: [DISA STIG Library](https://public.cyber.mil/stigs/)
 | 01 | STIG 01: WN11-AU-000500                       | [link](https://github.com/goubx/STIG-Implementation-WN11-AU-000500)  | Completed  |
 | 02 | STIG 02: WN11-CC-000150                       | [link](https://github.com/goubx/STIG-Implementation-WN11-CC-000150)  | Completed  |
 | 03 | STIG 03: WN11-AC-000010                       | [link](https://github.com/goubx/STIG-Implementation-WN11-AU-000585)  | Completed  |
-| 04 | STIG 04:                                      | [link]()  | Planned  |
+| 04 | STIG 04: WN11-CC-000100                       | [link](https://github.com/goubx/STIG-Implementation-WN11-CC-000100)  | Completed  |
 | 05 | STIG 05:                                      | [link]()  | Planned  |
 | 06 | STIG 06:                                      | [link]()  | Planned  |
 | 07 | STIG 07:                                      | [link]()  | Planned  |
