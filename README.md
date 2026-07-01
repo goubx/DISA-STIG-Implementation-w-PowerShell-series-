@@ -3,7 +3,7 @@
 A hands-on series implementing DISA Security Technical Implementation Guide (STIG) findings using PowerShell as the remediation engine. Each entry takes a real Tenable scan failure on a stock Azure VM and walks through hardening it end-to-end: identify, remediate, rescan, document.
 
 **Author:** Mohamed Yagoub
-**Status:** In progress (0 of 10 published)
+**Status:** In progress 
 
 ---
 
@@ -37,7 +37,7 @@ Reference: [DISA STIG Library](https://public.cyber.mil/stigs/)
 | 05 | STIG 05: WN11-CC-000280                       | [link](https://github.com/goubx/STIG-Implementation-WN11-CC-000280)  | Completed  |
 | 06 | STIG 06: WN11-CC-000005                       | [link](https://github.com/goubx/STIG-Implementation-WN11-CC-000005)  | Completed  |
 | 07 | STIG 07: WN11-CC-000326                       | [link](https://github.com/goubx/STIG-Implementation-WN11-CC-000326)  | Completed  |
-| 08 | STIG 08:                                      | [link](https://github.com/goubx/STIG-Implementation-WN11-00-000210)  | Completed  |
+| 08 | STIG 08: WN11-00-000210                       | [link](https://github.com/goubx/STIG-Implementation-WN11-00-000210)  | Completed  |
 
 Status values: Planned, In Progress, Published, Updated
 
